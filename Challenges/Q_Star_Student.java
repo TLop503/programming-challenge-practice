@@ -1,3 +1,5 @@
+//This program is finished, example input can be found in the link in the readme
+
 package Challenges;
 //inputs: int total sets, length of set, contents of set
 
