@@ -4,8 +4,6 @@ package Challenges;
 //inputs: int total sets, length of set, contents of set
 
 import java.util.Scanner;
-import java.util.ArrayList;
-import java.util.List;
 
 class Q_Star_Student {
 
